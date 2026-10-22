@@ -1,4 +1,4 @@
-// Package killthenewsletter is the native plugin for Kill the Newsletter, a
+// Package killthenewsletter is the plugin for Kill the Newsletter, a
 // service that turns email newsletters into Atom feeds.
 //
 // The service's own API is plain HTTP forms with no accounts: creating a feed
